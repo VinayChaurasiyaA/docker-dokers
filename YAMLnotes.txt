@@ -1,0 +1,15 @@
+Yaml file
+Yet another markup language / yamal ain't another markup language
+what is markup language : it provides child parent relationship. It describes the structure
+It is a data format like json and xml files.
+
+DATA SERIALIZATION is the process of converting the data into the stream of bytes or you must say more complex data structres.
+
+data deserialization is the process of reverse than the conversion of stream to object.
+
+where object could be code + data or just the data or just the code.
+If yaml and html both are markup language then why yaml is called it ain't another markup language?
+->it's because of the html can only store the documents and relationship between parent and child whereas yaml can store that too as well as the data and objects.
+It's used in configuration files, like docker and kuberneties
+It can also be used in logs and caches etc.
+
